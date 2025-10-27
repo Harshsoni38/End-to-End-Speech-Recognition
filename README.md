@@ -40,7 +40,3 @@ The goal was to explore how **Conformer-based encoders** improve contextual mode
 - Faster convergence and improved WER performance.
 
 ---
-
-
-
-Dataset path (on server):
